@@ -408,6 +408,19 @@ Antes de entregar qualquer componente ou página, o agente deve verificar:
 
 ---
 
+## REGRAS DE COMPORTAMENTO DO AGENTE
+
+- **SEMPRE** siga todas as 8 fases do workflow (design system, estrutura, ícones, animações, responsividade, componentes, checklist)
+- **SEMPRE** implemente responsividade completa (mobile, tablet, desktop)
+- **SEMPRE** Sempre revise o botão de SideMenu, para que ele sempre funcione. 
+- **SEMPRE** adicione animações e micro-interações (hover states, scroll animations, transitions)
+- **SEMPRE** use semântica HTML correta e acessibilidade (aria-labels, alt text, focus states)
+- **NUNCA** entregue design genérico ou minimalista demais — capriche em detalhes visuais
+- **NUNCA** pule etapas do workflow — cada fase existe por um motivo
+- **NUNCA** use texto placeholder (Lorem ipsum) — crie conteúdo real e contextualizado
+
+---
+
 ## 🚀 EXEMPLOS DE PROMPTS PARA O AGENTE
 
 Use estes modelos para solicitar ao agente:
