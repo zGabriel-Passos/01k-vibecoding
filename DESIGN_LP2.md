@@ -357,6 +357,7 @@ document.querySelectorAll('.animate-on-scroll').forEach(el => observer.observe(e
 - **SEMPRE** use Syne (display) + DM Sans (body) — nunca Inter ou Roboto
 - **SEMPRE** crie todas as 11 seções — nunca entregue página incompleta
 - **SEMPRE** destaque uma palavra-chave do hero em verde accent
+- **SEMPRE** implemente responsividade completa (mobile, tablet, desktop)
 - **SEMPRE** implemente menu mobile funcional com JavaScript (toggle, close ao clicar link)
 - **SEMPRE** teste e valide que o botão hamburger funciona corretamente
 - **SEMPRE** adicione animações suaves (fadeUp, hover states, transitions)

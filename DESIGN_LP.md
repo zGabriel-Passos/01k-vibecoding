@@ -181,6 +181,7 @@ Gap entre passos:    40px
 
 - **SEMPRE** use as fontes Caveat (display) + DM Sans (body)
 - **SEMPRE** crie todas as 6 seções — nunca entregue página incompleta
+- **SEMPRE** implemente responsividade completa (mobile, tablet, desktop)
 - **NUNCA** use fundo branco ou cores frias (azul, roxo, cinza neutro)
 - **NUNCA** adicione imagens de stock ou mockups — o estilo é só texto e forma
 - **NUNCA** use mais de 1 cor accent — a paleta é propositalmente restrita
