@@ -27,4 +27,6 @@ openclaude
 [System.Environment]::SetEnvironmentVariable("OPENAI_BASE_URL", "https://openrouter.ai/api/v1", "User")
 [System.Environment]::SetEnvironmentVariable("OPENAI_API_KEY", "", "User")
 [System.Environment]::SetEnvironmentVariable("OPENAI_MODEL", "qwen/qwen3.6-plus:free", "User")
+[System.Environment]::SetEnvironmentVariable("OPENAI_MODEL", "nvidia/nemotron-3-super-120b-a12b:free", "User")
+
 ```
